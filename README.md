@@ -1,0 +1,1 @@
+# -naive-solution-for-Amazon-Online-Assessment-Questions-2020
